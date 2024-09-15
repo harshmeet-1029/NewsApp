@@ -1,0 +1,6 @@
+Intercepting routes allows to load of content of another route in current page. 
+Combined with Next.js parallel routes, this is can be used to display modal over 
+current page to show contents of another page.
+
+
+Bascially we can show the data based on how we reach the page
