@@ -24,7 +24,6 @@ const FilterdNewsPage = ({ params }) => {
     links = getAvailableNewsYears();
   }
 
-  console.log(news);
   let newsConent;
 
   if (selectedYear || selectedMonth) {
